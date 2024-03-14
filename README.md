@@ -1,8 +1,8 @@
 <h2> Projetos </h2> 
 <a href="https://github.com/Anameliti/Barragensbrasileiras">
-  <img src="https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia11076/slide/paulo-marcos-bahia-cursos-cpt.jpg" alt="Barragens Brasileiras" style="width: 200px;"><div> <style="font-size: 9px;">
-  <figcaption> 
-    Barragens Brasileiras: Um estudo sobre a importância e os desafios da segurança das barragens no Brasil. </div>
+  <img src="https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia11076/slide/paulo-marcos-bahia-cursos-cpt.jpg" alt="Barragens Brasileiras" style="width: 200px;"><div> 
+  <figcaption>
+    Barragens Brasileiras: Um estudo sobre a importância e os desafios da segurança das barragens no Brasil.</div>
   </figcaption>
 </a>
     
