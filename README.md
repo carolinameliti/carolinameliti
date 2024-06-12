@@ -1,4 +1,11 @@
 <h2> Projetos </h2> 
+  <a href="https://github.com/Anameliti/MachineLearning">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoY7X785F5dxsXuue7Lg5Jan0Ps6e8bh3TA&s" alt="Barragens Brasileiras" style="width: 200px;"><div> 
+  <figcaption>
+    Previsão de Comportamento do Consumidor: Importante para identificar o comportamento dos clientes.</div>
+  </figcaption>
+</a>
+<br>
 <a href="https://github.com/Anameliti/Barragensbrasileiras">
   <img src="https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia11076/slide/paulo-marcos-bahia-cursos-cpt.jpg" alt="Barragens Brasileiras" style="width: 200px;"><div> 
   <figcaption>
