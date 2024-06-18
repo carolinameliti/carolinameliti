@@ -1,7 +1,12 @@
 <h2> Projetos </h2> 
-  <a href="https://github.com/Anameliti/MachineLearning">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoY7X785F5dxsXuue7Lg5Jan0Ps6e8bh3TA&s" alt="Barragens Brasileiras" style="width: 200px;"><div> 
+<br>
+<a href="https://github.com/Anameliti/MachineLearning">
+  <img src="https://github.com/Anameliti/create-ebook-prompts/blob/main/assets/images/capa.PNG?raw=true" alt="Ebook" style="width: 200px;"><div> 
   <figcaption>
+    Aventuras com amigos robôs: Aprendendo Machine Learning brincando! E-book de própria autoria com auxilio de ferramentas IAs.</div>
+  </figcaption> </a> </br> 
+    <a href="https://github.com/Anameliti/MachineLearning">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoY7X785F5dxsXuue7Lg5Jan0Ps6e8bh3TA&s" alt="Predicao Clientes" style="width: 200px;"><div><figcaption>
     Previsão de Comportamento do Consumidor: Importante para identificar o comportamento dos clientes.</div>
   </figcaption>
 </a>
@@ -12,6 +17,9 @@
     Barragens Brasileiras: Um estudo sobre a importância e os desafios da segurança das barragens no Brasil.</div>
   </figcaption>
 </a>
+
+    
+  -------
     
 ## Ana Meliti  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-meliti/)
@@ -28,9 +36,5 @@ Atualmente, curso Estatística, buscando aprofundar meus conhecimentos na área 
 
 ## Ferramentas e Linguagens
 <div style="display: inline_block"></br>
-<img align= "center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img align= "center" alt="Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-<img align= "center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align= "center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-<img align= "center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align= "center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> │ <img align= "center" alt="Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> │ <img align= "center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> │ <img align= "center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> │ <img align= "center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> │ <img align= "center" alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> │ <img align= "center" alt="Copilot" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/> │ <img align= "center" alt="Copilot" src=""/> │ <img align= "center" alt="Copilot" src=""/> │ <img align= "center" alt="Copilot" src=""/>
 </div>
