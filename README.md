@@ -1,40 +1,43 @@
-<h2> Projetos </h2> 
-<br>
-<a href="https://github.com/Anameliti/MachineLearning">
-  <img src="https://github.com/Anameliti/create-ebook-prompts/blob/main/assets/images/capa.PNG?raw=true" alt="Ebook" style="width: 200px;"><div> 
-  <figcaption>
-    Aventuras com amigos robôs: Aprendendo Machine Learning brincando! E-book de própria autoria com auxilio de ferramentas IAs.</div>
-  </figcaption> </a> </br> 
-    <a href="https://github.com/Anameliti/MachineLearning">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoY7X785F5dxsXuue7Lg5Jan0Ps6e8bh3TA&s" alt="Predicao Clientes" style="width: 200px;"><div><figcaption>
-    Previsão de Comportamento do Consumidor: Importante para identificar o comportamento dos clientes.</div>
-  </figcaption>
-</a>
-<br>
-<a href="https://github.com/Anameliti/Barragensbrasileiras">
-  <img src="https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia11076/slide/paulo-marcos-bahia-cursos-cpt.jpg" alt="Barragens Brasileiras" style="width: 200px;"><div> 
-  <figcaption>
-    Barragens Brasileiras: Um estudo sobre a importância e os desafios da segurança das barragens no Brasil.</div>
-  </figcaption>
-</a>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Anameliti&theme=jolly&show_icons=true" alt="ilustração do status do github">
 
-    
-  -------
-    
-## Ana Meliti  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-meliti/)
+# Olá, sou a Ana!
 
-Iniciei minha jornada em tecnologia aos 21 anos com graduação em Sistemas de Informação. Ao longo de 9 anos, acumulei experiência em meios de pagamentos e atendimento ao cliente, aprimorando minhas habilidades em comunicação, resolução de problemas e trabalho em equipe.
+<img src="https://img.shields.io/static/v1?label=Overview&message=ANAMELITI&color=845EC2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-Em 2023, iniciei minha transição para analista de dados, motivado pela paixão por números e novos desafios.
+<p>Analista de dados com enfâse em prevenção à fraude e graduada em Sistemas de Informação, atualmente cursando estatística, transformando informações simples em insights estratégicos poderosos.</p>
 
-Minha trajetória profissional é marcada pela busca constante por aprimoramento e otimização de processos. Participei de diversos projetos de melhoria contínua em sistemas, com foco em aumentar a praticidade para os colaboradores e reduzir o tempo de espera e atendimento para os clientes.
+<p align="center">
+<img src='./linhas.png'
+  width="700"> 
+</img></p>
 
-Em um projeto de qualidade, liderei a equipe na definição de estratégias e na apresentação de KPIs. Trabalhei em conjunto com as áreas de logística e fraude para mitigar possíveis tentativas, com destaque para um case de sucesso na prevenção da perda de 25 terminais. Essa experiência consolidou minhas habilidades em análise de dados, gestão de projetos e trabalho em equipe.
+ <h2 align="left"> 💡​ Projetos</h1>
 
-Atualmente, curso Estatística, buscando aprofundar meus conhecimentos na área e me tornar um analista de dados completo e eficiente. Acredito que minhas habilidades analíticas, experiência profissional e paixão por aprender me tornam um candidato diferenciado para o mercado de trabalho.
+  
 
-## Ferramentas e Linguagens
-<div style="display: inline_block"></br>
-<img align= "center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> │ <img align= "center" alt="Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> │ <img align= "center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> │ <img align= "center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> │ <img align= "center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> │ <img align= "center" alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> │ <img align= "center" alt="Copilot" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/> 
-</div>
+<p align="center">
+<img src='./linhas.png'
+  width="700"> 
+</img></p>
+
+
+<h2 align="left"> 🦄​ SKILLS</h2>
+
+![GoogleBigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white) ![Postgree](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+<p align="center">
+<img src='./linhas.png'
+  width="700"> 
+</img></p>
+
+<h2 align="left">
+  💌 Conecte-se comigo: ⤵️
+</h2>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ana-meliti/" alt="LinkedIn"/></a>
+
+
