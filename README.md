@@ -2,7 +2,7 @@
 
 # Olá, sou a Ana!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=ANAMELITI&color=845EC2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/badge/OVERVIEW-ANA_MELITI-darkviolet" alt="Static GitHub">
 
 <p>Analista de dados com enfâse em prevenção à fraude e graduada em Sistemas de Informação, atualmente cursando estatística, transformando informações simples em insights estratégicos poderosos.</p>
 
@@ -13,7 +13,12 @@
 
  <h2 align="left"> 💡​ Projetos</h1>
 
-  
+| Projeto | Descrição | Acesse aqui
+| ------- | --- | --- |
+| Bank abc credit | Desenvolvimento de Machine Learning para predições futuras sobre um novo produto.| [Clique aqui](https://github.com/Anameliti/bank-abc-credit-machine-learning)
+| Teo Me Why Program Loyalties | Análise em SQL e dataviz para identificar melhorias em um programa de fidelidade | [Clique aqui](https://github.com/Anameliti/teomewhy-loyalties-program)
+| E-book Machine Learning | Criação de um ebook utilizando IAs no desenvolvimento | [Clique aqui](https://github.com/Anameliti/create-ebook-prompts)
+| AnalitycsQuest | Podcast criado sobre o mundo DataScience utilizando IAs | [Clique aqui](https://github.com/Anameliti/podcast-prompts-by-ia)
 
 <p align="center">
 <img src='./linhas.png'
