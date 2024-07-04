@@ -6,9 +6,9 @@
 
 <p>Analista de dados com enfâse em prevenção à fraude e graduada em Sistemas de Informação, atualmente cursando estatística, transformando informações simples em insights estratégicos poderosos.</p>
 
-<p align="center">
+<p align="left">
 <img src='./linhas.png'
-  width="700"> 
+  width="900"> 
 </img></p>
 
  <h2 align="left"> 💡​ Projetos</h1>
@@ -20,9 +20,9 @@
 | E-book Machine Learning | Criação de um ebook utilizando IAs no desenvolvimento | [Clique aqui](https://github.com/Anameliti/create-ebook-prompts)
 | AnalitycsQuest | Podcast criado sobre o mundo DataScience utilizando IAs | [Clique aqui](https://github.com/Anameliti/podcast-prompts-by-ia)
 
-<p align="center">
+<p align="left">
 <img src='./linhas.png'
-  width="700"> 
+  width="900"> 
 </img></p>
 
 
@@ -30,9 +30,9 @@
 
 ![GoogleBigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white) ![Postgree](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<p align="center">
+<p align="left">
 <img src='./linhas.png'
-  width="700"> 
+  width="900"> 
 </img></p>
 
 <h2 align="left">
