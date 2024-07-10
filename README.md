@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Anameliti&theme=jolly&show_icons=true" alt="ilustração do status do github">
 
-# Olá, sou a Ana!
+# Hi, there!
 
 <img src="https://img.shields.io/badge/OVERVIEW-ANA_MELITI-darkviolet" alt="Static GitHub">
 
@@ -15,10 +15,10 @@
 
 | Projeto | Descrição | Acesse aqui
 | ------- | --- | --- |
-| Bank abc credit | Desenvolvimento de Machine Learning para predições futuras sobre um novo produto.| [Clique aqui](https://github.com/Anameliti/bank-abc-credit-machine-learning)
-| Teo Me Why Program Loyalties | Análise em SQL e dataviz para identificar melhorias em um programa de fidelidade | [Clique aqui](https://github.com/Anameliti/teomewhy-loyalties-program)
-| E-book Machine Learning | Criação de um ebook utilizando IAs no desenvolvimento | [Clique aqui](https://github.com/Anameliti/create-ebook-prompts)
-| AnalitycsQuest | Podcast criado sobre o mundo DataScience utilizando IAs | [Clique aqui](https://github.com/Anameliti/podcast-prompts-by-ia)
+| Bank abc credit | Desenvolvimento de Machine Learning para predições futuras sobre um novo produto.| [Acesse aqui](https://github.com/Anameliti/bank-abc-credit-machine-learning)
+| Teo Me Why Program Loyalties | Análise em SQL e dataviz para identificar melhorias em um programa de fidelidade | [Acesse aqui](https://github.com/Anameliti/teomewhy-loyalties-program)
+| E-book Machine Learning | Criação de um ebook utilizando IAs no desenvolvimento | [Acesse aqui](https://github.com/Anameliti/create-ebook-prompts)
+| AnalitycsQuest | Podcast criado sobre o mundo DataScience utilizando IAs | [Acesse aqui](https://github.com/Anameliti/podcast-prompts-by-ia)
 
 <p align="left">
 <img src='./linhas.png'
