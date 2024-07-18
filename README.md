@@ -1,10 +1,10 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Anameliti&theme=jolly&show_icons=true" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Anameliti&theme=jolly&show_icons=true" alt="ilustração do status do github"> 
 
-# Hi, there!
+# Hi, there! 
 
-<img src="https://img.shields.io/badge/OVERVIEW-ANA_MELITI-darkviolet" alt="Static GitHub">
+<img  src="https://img.shields.io/badge/OVERVIEW-ANA%20MELITI-darkviolet?style=plastic" alt="Static GitHub"> <img src="https://img.shields.io/badge/PORTF%C3%93LIO-CLIQUE%20AQUI-darkviolet?style=plastic&link=https%3A%2F%2Fgem-pull-9b4.notion.site%2FPortf-lio-Ana-Meliti-360a279b7def4db1a82a265338ba0d4b">
 
-<p>Analista de dados com enfâse em prevenção à fraude e graduada em Sistemas de Informação, atualmente cursando estatística, transformando informações simples em insights estratégicos poderosos.</p>
+<p>Analista de dados com enfâse em Customer Experience e graduada em Sistemas de Informação, atualmente cursando estatística, transformando informações simples em insights estratégicos poderosos.</p>
 
 <p align="left">
 <img src='./linhas.png'
@@ -15,10 +15,10 @@
 
 | Projeto | Descrição | Acesse aqui
 | ------- | --- | --- |
-| Bank abc credit | Desenvolvimento de Machine Learning para predições futuras sobre um novo produto.| [Acesse aqui](https://github.com/Anameliti/bank-abc-credit-machine-learning)
-| Teo Me Why Program Loyalties | Análise em SQL e dataviz para identificar melhorias em um programa de fidelidade | [Acesse aqui](https://github.com/Anameliti/teomewhy-loyalties-program)
-| E-book Machine Learning | Criação de um ebook utilizando IAs no desenvolvimento | [Acesse aqui](https://github.com/Anameliti/create-ebook-prompts)
-| AnalitycsQuest | Podcast criado sobre o mundo DataScience utilizando IAs | [Acesse aqui](https://github.com/Anameliti/podcast-prompts-by-ia)
+| Bank abc credit | Desenvolvimento de Machine Learning para predições futuras sobre um novo produto.| [Link](https://github.com/Anameliti/bank-abc-credit-machine-learning)
+| Teo Me Why Program Loyalties | Análise em SQL e dataviz para identificar melhorias em um programa de fidelidade | [Link](https://github.com/Anameliti/teomewhy-loyalties-program)
+| E-book Machine Learning | Criação de um ebook utilizando IAs no desenvolvimento | [Link](https://github.com/Anameliti/create-ebook-prompts)
+| AnalitycsQuest | Podcast criado sobre o mundo DataScience utilizando IAs | [Link](https://github.com/Anameliti/podcast-prompts-by-ia)
 
 <p align="left">
 <img src='./linhas.png'
