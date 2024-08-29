@@ -1,10 +1,11 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Anameliti&theme=jolly&show_icons=true" alt="ilustração do status do github"> 
+<img height= 300px align='right' src="https://img.freepik.com/fotos-gratis/perspectiva-futurista-do-estilo-de-vida-dos-nomades-digitais_23-2151252489.jpg?t=st=1724931514~exp=1724935114~hmac=3d96d5648f340ad46e36c4e6d06dd84242366366ab105f4dbfa5fffe8b54e422&w=740" alt="ilustração do status do github"> 
 
-# Hi, there! 
+<h1> Hi, I'm Carol!</h1>
 
-<img  src="https://img.shields.io/badge/OVERVIEW-ANA%20MELITI-darkviolet?style=plastic" alt="Static GitHub"> <img src="https://img.shields.io/badge/PORTF%C3%93LIO-CLIQUE%20AQUI-darkviolet?style=plastic&link=https%3A%2F%2Fgem-pull-9b4.notion.site%2FPortf-lio-Ana-Meliti-360a279b7def4db1a82a265338ba0d4b">
+<img  src="https://img.shields.io/badge/Contact-Linkedin-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarolinameliti%2F" alt="Static GitHub"> <img src="https://img.shields.io/badge/PORTF%C3%93LIO-CLIQUE%20AQUI-darkviolet?style=plastic&link=https%3A%2F%2Fgem-pull-9b4.notion.site%2FPortf-lio-Ana-Meliti-360a279b7def4db1a82a265338ba0d4b">
 
-<p>Analista de dados com enfâse em Customer Experience e graduada em Sistemas de Informação, atualmente cursando estatística, transformando informações simples em insights estratégicos poderosos.</p>
+<p>Graduanda em Estatística e estagiaria no E.B.A, com experiência em
+modelagem de machine learning, análises descritivas e preditivas, e mentoria.</p>
 
 <p align="left">
 <img src='./linhas.png'
@@ -34,9 +35,3 @@
 <img src='./linhas.png'
   width="900"> 
 </img></p>
-
-<h2 align="left">
-  💌 Conecte-se comigo: ⤵️
-</h2>
-
- <a href="https://linkedin.com/in/Ana-meliti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></img> <a href="carolina.meliti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></img> 
