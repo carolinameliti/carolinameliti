@@ -1,18 +1,33 @@
-<img height= 300px align='right' src="https://img.freepik.com/fotos-gratis/perspectiva-futurista-do-estilo-de-vida-dos-nomades-digitais_23-2151252489.jpg?t=st=1724931514~exp=1724935114~hmac=3d96d5648f340ad46e36c4e6d06dd84242366366ab105f4dbfa5fffe8b54e422&w=740" alt="ilustração do status do github"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p><h1> Hi, I'm Carol!</h1></p>
+<p align="left"> 
+  Olá, sou a Carol! <strong>Data Analyst</strong>.<br>
+  Apaixonada por dados, granduanda em Estatística para análise de dados e estagiária no E.B.A - Estatística do Básico ao Avançado, onde atuo como mentora dos alunos, faço 
+  análises descritivas, preditivas, dashboards e muito mais!
+</p>
 
-<p><a href="https://www.linkedin.com/in/carolinameliti/"><img src="https://img.shields.io/badge/CONECT-LINKEDIN-blue?style=plastic"></a> <img src="https://img.shields.io/badge/OVERVIEW-PORTFÓLIO-lightblue?style=plastic"></p>
+<p align="left">
+  🦄 Linguagens: 
+  <br>
+  
+<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'> <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
+</p>
 
-<p>Graduanda em Estatística e estagiaria no E.B.A, com experiência em
-modelagem de machine learning, análises descritivas e preditivas, e mentoria.</p>
+<p align="left">
+  💼 Ferramentas: 
+  <br>
+  
+  <img src='https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white'> </img> <img src='https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white'>  <img src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black'>  <img src='https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white'> <img src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'> <img src='https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white'>
+</p>
 
+<p align="left">
+  💌 Gostou do meu perfil? Fale comigo: ⤵️
+</p>
 
-<h2 align="left"> 🦄​ SKILLS</h2>
-
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-
-<h2 align="left"> 💻​ SOCIALS</h2>
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinameliti/" alt="LinkedIn"/></a>
+  </a>
+</p>
