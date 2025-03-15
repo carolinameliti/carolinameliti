@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Olá, sou a Carol! <strong>Data Analyst</strong>.<br>
-  Apaixonada por dados, granduanda em Estatística para análise de dados e estagiária no E.B.A - Estatística do Básico ao Avançado, onde atuo como mentora dos alunos, faço 
-  análises descritivas, preditivas, dashboards e muito mais!
+  Apaixonada por dados, granduanda em Estatística para análise de dados e fui estagiária no E.B.A - Estatística do Básico ao Avançado, onde atuava como mentora dos alunos, faço 
+  análises descritivas, preditivas, dashboards e muito mais! Atualmente sou estagiária na Bradesco Saúde, responsável pelas métricas e resultados da equipe de gestão de reclamações!
 </p>
 
 <p align="left">
